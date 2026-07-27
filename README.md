@@ -67,15 +67,10 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-**Linux / macOS**<img width="856" height="193" alt="a3" src="https://github.com/user-attachments/assets/1c405632-be5c-47aa-847d-1b2e9bf00b27" />
+**Windows**<img width="856" height="193" alt="a3" src="https://github.com/user-attachments/assets/1c405632-be5c-47aa-847d-1b2e9bf00b27" />
 <img width="904" height="356" alt="a2" src="https://github.com/user-attachments/assets/d0f5d203-e441-4365-9824-b451adb63ae6" />
 <img width="917" height="452" alt="a1" src="https://github.com/user-attachments/assets/f5de33cc-4af3-4b58-b652-09f721f4681b" />
 
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
 
 ### 4. Install dependencies
 
@@ -83,11 +78,6 @@ source venv/bin/activate
 pip install django
 ```
 
-or
-
-```bash
-pip install -r requirements.txt
-```
 
 ### 5. Apply migrations
 
